@@ -39,7 +39,7 @@ namespace JSON
 	class Node
 	{
 		Values values; // Union to store different JSON values.
-		Type type;	   // Type of the JSON value.
+		Type type; // Type of the JSON value.
 
 	public:
 		Node() {}
